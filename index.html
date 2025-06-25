@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Video Collection</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; background: #f8f8f8; }
+    h1 { font-size: 1.6em; margin: 1em; text-align: center; }
+    .video-list { display: flex; flex-direction: column; gap: 1.2em; padding: 1em; }
+    .video-frame { width: 100%; aspect-ratio: 16 / 9; border: none; border-radius: 12px; box-shadow: 0 2px 8px #0002; background: #fff; }
+    @media (min-width: 600px) {
+      .video-list { max-width: 600px; margin: auto; }
+    }
+  </style>
+</head>
+<body>
+  <h1>🎬 Video Collection</h1>
+  <div class="video-list" id="video-list">Loading...</div>
+  <script src="script.js"></script>
+</body>
+</html>
