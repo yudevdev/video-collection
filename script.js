@@ -1,9 +1,7 @@
-// script.js
 const videoUrls = [
     "https://youtu.be/NrJIhK_gOXc?si=pkXGYVsNFSI9j_-8"
 ];
 
-// ↓以下は前のロジックそのまま、fetch部分だけ省略
 function loadVideos() {
   const list = document.getElementById('video-list');
   if (videoUrls.length === 0) {
