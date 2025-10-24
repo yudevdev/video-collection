@@ -1,5 +1,6 @@
 const videoUrls = [
-    "https://youtu.be/NrJIhK_gOXc?si=pkXGYVsNFSI9j_-8"
+    "https://youtu.be/NrJIhK_gOXc?si=pkXGYVsNFSI9j_-8",
+    "https://youtu.be/nUVR-Wk9M3c?si=eHqt45RoO9rK2MtK"
 ];
 
 function loadVideos() {
