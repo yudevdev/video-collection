@@ -1,4 +1,5 @@
 const videoUrls = [
+    "https://youtu.be/bzGMeDoGpeA?si=SyVs74pSlsA19YvI",
     "https://youtu.be/hFJEXJn1pfY?si=lBnvWQfMw1V5BDz1&t=36",
     "https://youtu.be/iKWmRIflEhc?si=oos_3wbAGYhnvZcO",
     "https://youtu.be/NrJIhK_gOXc?si=pkXGYVsNFSI9j_-8",
